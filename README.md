@@ -1,3 +1,4 @@
 # apnacollage-demo
-This is my first Git Repository
-Author-Sarafat Ali
+This is my first Git Repository.
+<br>
+Author - Sarafat Ali
